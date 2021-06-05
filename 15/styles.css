@@ -1,0 +1,18 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.body {
+	text-align: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: #ecfdf5;
+}
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+.container {
+	text-align: center;
+	width: 50%;
+	overflow: hidden;
+}
